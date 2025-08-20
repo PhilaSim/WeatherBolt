@@ -1,9 +1,9 @@
 import React from 'react';
 import { motion } from 'framer-motion';
 import { 
-  Thermometer, 
+  Thermometer,
   Droplets, 
-  Wind, 
+  Wind,
   Eye, 
   Sun, 
   Gauge,
